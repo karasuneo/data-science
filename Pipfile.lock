@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ba5c9cd4a0f8f8edacaa9666cd09b369cb2c22cfd3e7862ca102098e51c46632"
+            "sha256": "54372dff51ba9d3f06cfd7e6951865247c89d0359ed94468ba8c857be135b81d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -524,6 +524,7 @@
                 "sha256:f313b39a7e94f296025e3cffc2c567618174c0b1dde173960cf23808f9fae4be",
                 "sha256:f3cd9e7b3c2c1ec26364856f9fbe78695fe631150f94cd1c22228456404cf1ec"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==1.11.4"
         },
@@ -696,11 +697,11 @@
         },
         "jupyter-core": {
             "hashes": [
-                "sha256:3d16aec2e1ec84b69f7794e49c32830c1d950ad149526aec954c100047c5f3a7",
-                "sha256:5139be639404f7f80f3db6f687f47b8a8ec97286b4fa063c984024720e7224dc"
+                "sha256:16eea462f7dad23ba9f86542bdf17f830804e2028eb48d609b6134d91681e983",
+                "sha256:cb8d3ed92144d2463a3c5664fdd686a3f0c1442ea45df8babb1c1a9e6333fe03"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==5.6.1"
+            "version": "==5.7.0"
         },
         "matplotlib-inline": {
             "hashes": [
