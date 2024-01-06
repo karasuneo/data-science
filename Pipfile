@@ -12,6 +12,7 @@ seaborn = "*"
 scikit-learn = "*"
 scipy = "*"
 tensorflow = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
